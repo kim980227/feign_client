@@ -1,0 +1,5 @@
+rootProject.name = 'msa-Feign'
+
+include 'Feign01'
+include 'Feign02'
+include 'Feign03'

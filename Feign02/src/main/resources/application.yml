@@ -1,0 +1,19 @@
+server:
+  port: 8083
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+  application:
+    name: Feign0002
+
+eureka:
+  instance:
+    prefer-ip-address: true
+
+
+#
+#  eureka:
+#    instance:
+#      prefer-ip-address: true
